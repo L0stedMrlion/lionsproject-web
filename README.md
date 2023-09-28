@@ -1,3 +1,4 @@
 # 🦁 Lion's Project
 
-This web is for my project named 🦁 Lion's Project, its a project about streaming a playing games. Now we are focusing on Minecraft. 
+- My first web, I ever created
+- Web from my project named [🦁 Lion's Project](https://discord.gg/sWvj5M6e7W)
