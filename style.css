@@ -5,18 +5,18 @@ body {
 }
 
 body {
-    background-color: #333;
+    background-color: #3e3e42;
     color: #eee;
 }
 
 h1 {
     font-size: 22px;
-    color: #ccc;
+    color: #fff;
 }
 
 p {
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 1.5;
 }
 
 a {
