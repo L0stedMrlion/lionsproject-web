@@ -9,8 +9,4 @@
 
 **Ubuntu/Debian:**
 
-`sudo apt update`
-
-`sudo apt install git`
-
 `More soon, okey? 😁`
