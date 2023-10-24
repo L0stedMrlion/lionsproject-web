@@ -1,0 +1,39 @@
+.header_logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f2f2f218;
+}
+
+.header_logo img {
+    height: 50px;
+    width: auto;
+    transition: transform 0.2s ease-in-out;
+}
+
+.header_logo img:hover {
+    transform: translateY(-12px);
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0);
+    padding: 10px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
