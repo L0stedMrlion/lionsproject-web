@@ -15,3 +15,28 @@
 .header_logo img:hover {
   transform: translateY(-12px);
 }
+
+nav {
+  background-color: #333
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline; 
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none; 
+  color: #fff;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ff9900; 
+}
