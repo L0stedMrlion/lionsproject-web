@@ -1,0 +1,17 @@
+.introduction {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 90px;
+    margin: 70px 0px;
+    margin-bottom: 100px;
+    gap: 50px;
+  }
+  
+  .introduction .text {
+    flex: 5;
+  }
+  
+  .introduction .text h2 {
+    font-size: 45px;
+  }
