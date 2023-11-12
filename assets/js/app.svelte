@@ -22,7 +22,6 @@
             <a href="/">🦁 Lion's Project™</a>
           </div>
         </div>
-
         <div class="right">
           <a href="" target="_blank" rel="noopener noreferrer">
             <i class="fa-brands fa-instagram"></i>
