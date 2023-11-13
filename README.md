@@ -1,4 +1,9 @@
 # 🦁 Lion's Project - Web
 
-- My first web, I ever created
-- Web from my project named [🦁 Lion's Project](https://discord.gg/sWvj5M6e7W)
+Web for project named 🦁 Lion's Project. This one of my first made webs. I will use HTML, CSS and some other tools to make this site.
+
+Soon will be beta preview to see my progress; have in mind Im small developer doing some web for my small project.
+
+Thanks.
+
+#
