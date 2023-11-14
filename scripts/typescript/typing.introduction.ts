@@ -1,1 +1,0 @@
-const typing_text = "We are the future!"
