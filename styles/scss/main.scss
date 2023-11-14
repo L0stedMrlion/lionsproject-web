@@ -26,3 +26,8 @@
     color: var(--link-color);
     text-decoration: none;
   }
+
+  @media (prefers-color-scheme: dark) {
+    $primary-color: #000000;
+    $secondary-color: #ffffff;
+  }
