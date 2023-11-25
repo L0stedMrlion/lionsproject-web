@@ -15,4 +15,5 @@
       </a>
     </div>
   </nav>
+  <body></body>
 </template>
