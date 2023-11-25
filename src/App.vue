@@ -1,19 +1,13 @@
-<script setup lang="ts"></script>
 <template>
-  <nav>
-    <div class="left">
-      <a href="/">🦁 Lions's Project</a>
-    </div>
-
-    <div class="right">
-      <a href="https://instagram.com/lionprojects" target="_blank" rel="noopener noreferrer">
-        <i class="fa-brands fa-instagram"></i>
-      </a>
-
-      <a href="http://discord.gg/drjgE4uCJS" target="_blank" rel="noopener noreferrer">
-        <i class="fa-brands fa-discord"></i>
-      </a>
-    </div>
-  </nav>
-  <body></body>
+  <body>
+    <header class="header"></header>
+    <a href="#" class="logo">Logo</a>
+    <nav class="navbar">
+      <a href="#">Home</a>
+      <a href="#">Home</a>
+      <a href="#">Home</a>
+    </nav>
+  </body>
 </template>
+
+<script setup lang="ts"></script>
