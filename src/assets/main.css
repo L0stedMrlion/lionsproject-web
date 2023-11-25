@@ -9,6 +9,21 @@
   font-weight: normal;
 }
 
+body {
+  min-height: 100vh;
+  color: var(--color-text);
+  background: var(--color-background);
+  transition:
+    color 0.3s,
+    background-color 0.3s;
+  line-height: 1.6;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 a {
   text-decoration: none;
 }
