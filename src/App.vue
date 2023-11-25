@@ -6,11 +6,13 @@
     </div>
 
     <div class="right">
-      <a href="http://github.com/L0stedMrlion" target="_blank" rel="noopener noreferrer"> </a>
-      <i class="fa-brands fa-instagram"></i>
+      <a href="https://instagram.com/lionprojects" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-instagram"></i>
+      </a>
 
-      <a href="http://discord.gg/qMVEyW2Teq" target="_blank" rel="noopener noreferrer"> </a>
-      <i class="fa-brands fa-discord"></i>
+      <a href="http://discord.gg/qMVEyW2Teq" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-discord"></i>
+      </a>
     </div>
   </nav>
 </template>
