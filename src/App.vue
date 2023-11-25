@@ -1,34 +1,22 @@
 <script setup lang="ts"></script>
-
 <template>
-  <header></header>
+  <nav>
+    <div class="left">
+      <a href="/">🦁 Lions's Project</a>
+    </div>
+
+    <div class="right">
+      <a href="http://github.com/L0stedMrlion" target="_blank" rel="noopener noreferrer">
+        <span>Github</span>
+      </a>
+
+      <a href="http://discord.gg/qMVEyW2Teq" target="_blank" rel="noopener noreferrer">
+        <span>Discord</span>
+      </a>
+
+      <a href="mailto:mrlion@lionsproject.eu">
+        <span>Email</span>
+      </a>
+    </div>
+  </nav>
 </template>
-
-<style scoped>
-header {
-  line-height: 1.5;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-}
-</style>
