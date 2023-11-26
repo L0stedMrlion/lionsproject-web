@@ -4,8 +4,6 @@
     <a href="#" class="logo">Logo</a>
     <nav class="navbar">
       <a href="#">Home</a>
-      <a href="#">Home</a>
-      <a href="#">Home</a>
     </nav>
   </body>
 </template>
